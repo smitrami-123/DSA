@@ -1,4 +1,5 @@
-// TC : O(N*M) : Single call for each state
+
+// TC : O(N*M) : Single call for each state so there are n*m states
 // SC : O(N) + O(N*M) : Recursion Stack plus DP Table
 class Solution {
 public:
